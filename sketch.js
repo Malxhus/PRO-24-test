@@ -37,7 +37,7 @@ function draw() {
 }
 
 function keyPressed(){
-    if (keyCode == UP_ARROW) {
+    if (keyDown("space")) {
      // what do I do here
 	}
 }
